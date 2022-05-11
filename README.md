@@ -8,7 +8,7 @@
 # Project Title
 *Land Shark Binomial Model*
 # Description
-This model solves the total profit achieved based on different uncertain parameters, including: the number of other bids and the amount of those other bids
+This model solves the total profit achieved based on different uncertain parameters, including: the number of other bids and the amount of those other bids.
 - This gives the Land Shark company a good idea of whether they will win the auction based on their bid amount and whether they should increase their bid amount.
 # How to Run Program
 In the *Formulas* tab, the **"Calculate Now"** feature can be utilized to run the simulation, which will present a different outcome each time.
