@@ -1,4 +1,4 @@
-# Simulation_Modelsss
+# Sanotronics Simulation Model
 # Table of Contents
 - [Bio](README.md)
 - [Project Title](README.md)
