@@ -1,37 +1,19 @@
 # Sanotronics Simulation Model
 # Table of Contents
-- [Bio](README.md)
 - [Project Title](README.md)
 - [Description](README.md)
 - [How to Run Program](README.md)
-- [Files Used](README.md)
-- [Additional Documentation](README.md)
-- [Version Summary](README.md)
-# Bio
-Hello, my name is **Matthew Clark**
-
-I am a junior at the *University of Iowa*
-
-I am currently studying: 
-- Finance 
-- Business Analytics
-
-Learn more about me by visiting my LinkedIn page!
-[LinkedIn](https://www.linkedin.com/in/matthew-clark1)
+- [Files](README.md)
+- [Versioning](README.md)
 # Project Title
-Creative title that also captures what project is (in italics)
+*Sanotronics Random Number Generation*
 # Description
-Brief explanation of what the project is and why it is being done
+This model solves the total profit achieved based on different uncertain parameters, including demand, direct labor cost, and the cost for parts.
+- This gives the Sanotronics company a good idea of where their profits will be for the upcoming year and make decisions around that number.
 # How to Run Program
-Explain here how one would run the program and what files should be available
-# Files Used
-- Did you use any datafiles?
-- List filename(s) with URL links
-- Where the files came from
-- What the datafiles contain
-- Datafile considerations
-# Additional Documentation
-Add any additional documentation that may be needed
+In the *Formulas* tab, the **"Calculate Now"** feature can be utilized to run the simulation, which will present a different outcome each time.
+# Files
+The file containing the simulation model has been attached to the Sanotronics Branch.
 # Versioning
-Discuss any versioning used especially if changes were made throughout the process
+This entire model was created using Microsoft Excel.
 
