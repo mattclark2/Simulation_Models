@@ -1,4 +1,4 @@
-# Sanotronics Simulation Model
+# Manga Simulation Model
 # Table of Contents
 - [Project Title](README.md)
 - [Description](README.md)
@@ -6,7 +6,7 @@
 - [Files](README.md)
 - [Versioning](README.md)
 # Project Title
-*Sanotronics Random Number Generation*
+*Manga Kendra Magazine Model*
 # Description
 This model solves the total profit achieved based on different uncertain parameters, including demand, direct labor cost, and the cost for parts.
 - This gives the Sanotronics company a good idea of where their profits will be for the upcoming year and make decisions around that number.
